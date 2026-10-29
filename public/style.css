@@ -1,0 +1,19 @@
+
+*{
+    background-color: rgb(205, 187, 255);
+}
+
+input{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: rgb(58, 0, 112);
+    height: 20px;
+}
+
+.botao{
+    background-color: rgb(58, 0, 112);
+    color: aliceblue;
+    height: 20px;
+    width: 80px;
+}
